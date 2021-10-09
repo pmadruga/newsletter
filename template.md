@@ -1,4 +1,6 @@
-# 🗯 Featured post
+# 🗯 This week
+
+- Remember to check the most popular Reddit posts this week on data-related boards. 👇
 
 # 🔮 Data Science
 
@@ -8,7 +10,7 @@
 
 # 👋 See you next time
 
-Let's keep in touch,\
+Let's keep in touch,
 Pedro.
 
 [website](https://pedromadruga.com) |
